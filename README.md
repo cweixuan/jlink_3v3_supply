@@ -1,6 +1,8 @@
 # jlink_3v3_supply
 JTAG port adapter for the JLINK
+
 connects 5v supply to NC pin below VTREF with a solder jumper to connect VTREf if needed
+
 Switch to toggle between 5v and 3v3, jumper pins for enabling power. Additional header pins for connecting a Nordic PPK II or similar for current monitoring (or power supply)
 
 # Bill of Materials:
